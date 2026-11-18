@@ -300,16 +300,16 @@ This is an extracted Fabric/Power BI report project structure. The source `.pbix
 
 ## 👨‍💻 Author Information
 
-**Rahul Sharma**
+**Shivam Rawat**
 
 - **Role:** CSE (Data Science) Student | Aspiring Data Analyst
 - **Relevant Skills:** Power BI, Data Analysis
-- **GitHub:** [@Rahulsharma2006](https://github.com/Rahulsharma2006)
+- **GitHub:** [@shivamrawat2007](https://github.com/shivamrawat2007)
 
 ---
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rahulsharma2006-181717?style=for-the-badge&logo=github)](https://github.com/Rahulsharma2006)
+[![GitHub](https://img.shields.io/badge/GitHub-shivamrawat2007-181717?style=for-the-badge&logo=github)](https://github.com/shivamrawat2007)
 
 If you review this project or have suggestions for improving the analysis, feel free to connect with me on GitHub.
