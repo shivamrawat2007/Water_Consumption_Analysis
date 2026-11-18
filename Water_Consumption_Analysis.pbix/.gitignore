@@ -1,0 +1,27 @@
+# Power BI temporary and cache files
+*.pbi
+*.pbids
+*.tmp
+*.bak
+~$*
+
+# Power BI Desktop
+Backup/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# General temporary files
+*.log
